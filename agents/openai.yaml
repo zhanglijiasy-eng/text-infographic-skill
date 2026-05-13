@@ -1,0 +1,4 @@
+interface:
+  display_name: "Text Infographic"
+  short_description: "Turn text into structured hand-drawn teaching infographics."
+  default_prompt: "Create a clear hand-drawn teaching infographic from this text:"
