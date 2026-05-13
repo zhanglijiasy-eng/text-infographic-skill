@@ -1,0 +1,30 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="24" fill="#fffdf7"/>
+  <rect x="42" y="38" width="1116" height="724" rx="26" fill="#fffaf0" stroke="#111827" stroke-width="4"/>
+  <text x="78" y="116" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">Chatbot vs Agent</text>
+  <path d="M82 146 C230 134, 402 132, 552 119" stroke="#ef4444" stroke-width="7" stroke-linecap="round"/>
+
+  <rect x="86" y="194" width="486" height="410" rx="24" fill="#eff6ff" stroke="#111827" stroke-width="3"/>
+  <rect x="126" y="232" width="178" height="42" rx="21" fill="#2563eb"/>
+  <text x="158" y="262" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">传统 Chatbot</text>
+  <text x="126" y="330" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">回答问题</text>
+  <line x1="126" y1="360" x2="520" y2="360" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <text x="132" y="414" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="25">只处理当前问题</text>
+  <text x="132" y="466" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="25">输出主要是文字</text>
+  <text x="132" y="518" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="25">用户自己继续执行</text>
+
+  <rect x="628" y="194" width="486" height="410" rx="24" fill="#fff7ed" stroke="#ef4444" stroke-width="4"/>
+  <rect x="668" y="232" width="138" height="42" rx="21" fill="#ef4444"/>
+  <text x="702" y="262" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">Agent</text>
+  <text x="668" y="330" fill="#ef4444" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">推进任务</text>
+  <line x1="668" y1="360" x2="1062" y2="360" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <text x="674" y="414" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="25">拆解目标和步骤</text>
+  <text x="674" y="466" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="25">选择工具并执行</text>
+  <text x="674" y="518" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="25">根据结果继续调整</text>
+
+  <circle cx="600" cy="330" r="34" fill="#ffffff" stroke="#111827" stroke-width="3"/>
+  <text x="581" y="341" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800">VS</text>
+
+  <rect x="146" y="650" width="908" height="58" rx="20" fill="#fee2e2" stroke="#ef4444" stroke-width="3" stroke-dasharray="10 9"/>
+  <text x="204" y="689" fill="#b91c1c" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800">一句话：Chatbot 停在答案，Agent 走向结果。</text>
+</svg>
